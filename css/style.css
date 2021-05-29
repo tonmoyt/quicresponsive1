@@ -1,0 +1,203 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+    }
+    
+    .logo img{
+       
+    padding-top: 6px;
+       
+    width: 16%;
+       
+    
+       
+    margin-top: 15px;
+    }
+    .nav ul{
+        
+    margin-top: 28px;
+        
+    text-transform: capitalize;
+    }
+    .nav ul li{
+        list-style: none;
+        float: right;
+        
+        font-size: 25px;
+        font-weight: 420;
+        cursor: pointer;
+        
+        margin-left: 25px;
+        
+    }
+    hr{
+        color: #1f1919;
+    }
+
+    .section_1{text-align: center;margin-top: 107px;}
+
+    .section_1 h1{
+
+color: #0F2551;
+
+font-size: 76px;
+
+text-transform: capitalize;
+
+}
+
+    .section_1 h2{
+
+color: #0087FF;
+
+font-size: 68px;
+
+}
+
+    .section_1 p{
+
+margin-top: 38px;
+
+}
+
+    .section_1 img{
+
+width: 50%;
+
+margin-top: 43px;
+
+}
+.section_2left{
+
+margin-top: 64px;
+
+text-align: right;
+}
+
+.section_2left h1{
+
+color: red;
+
+font-size: 63px;
+}
+.section_2left p{
+
+
+
+
+}
+
+.section_2right{
+
+margin-top: 64px;
+}
+
+.section_2right h1{
+
+color: #212529;
+
+font-size: 61px;
+}
+
+
+.section_3left{
+
+margin-top: 83px;
+
+/* height: 314px; */
+
+height: 325px;
+
+background-color: #FEECEC;
+
+text-align: center;
+}
+
+.section_3left h2{
+
+/* margin-top: 52px; */
+}
+
+.section_3left img{
+
+/* margin-top: 46px; */
+
+width: 85%;
+}
+.section_3left p{
+
+
+
+}
+.section_3middle{
+
+margin-top: 83px;
+
+background-color: #EAF9F4;
+
+/* height: 309px; */
+
+text-align: center;
+
+height: 325px;
+}
+.section_3middle h2{/* margin-top: 58px; */}
+
+.section_3middle p{
+
+
+
+
+}
+.section_3middle img{/* margin-top: 40px; */width: 85%;}
+
+.section_3right{
+
+margin-top: 83px;
+
+background-color: #FFF8E7;
+
+text-align: center;
+
+height: 325px;
+}
+
+
+.section_3right h2{
+
+
+
+
+}
+
+.section_3right img{
+
+width: 85%;
+}
+
+.section_3right_ p{
+
+
+
+    
+}
+
+footer{
+    background-color: #018AFD;
+    text-align: center;
+    padding: 2px 0;
+    margin-top: 100px;
+}
+footer p{
+
+}
+
+footer p span{
+color: white;
+font-size: 30px;
+
+/* background-color: white; */
+
+color: white;
+}
